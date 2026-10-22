@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="278" viewBox="0 0 1100 278" role="img" aria-label="OmniGate — owned by KaliFlow. Visit omnigate.info.">
+<defs>
+<linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06150d"/><stop offset="1" stop-color="#021008"/></linearGradient>
+<linearGradient id="a" x1="0" x2="1"><stop stop-color="#07ff89"/><stop offset="1" stop-color="#0ca57b"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#06e58c" stop-opacity=".27"/><stop offset="1" stop-color="#06e58c" stop-opacity="0"/></radialGradient>
+<pattern id="m" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1acb77" stroke-width=".6" opacity=".16"/></pattern>
+</defs>
+<rect x="2" y="2" width="1096" height="274" rx="20" fill="url(#b)" stroke="#148952" stroke-width="2"/>
+<rect x="3" y="3" width="1094" height="272" rx="20" fill="url(#m)"/>
+<path d="M34 44h24" stroke="#18fc82" stroke-width="4"/><text x="70" y="49" font-family="monospace" font-size="15" fill="#6cfab3" letter-spacing="3">FEATURED VENTURE // 001</text>
+<text x="35" y="125" font-family="Arial,sans-serif" font-size="70" font-weight="900" letter-spacing="-3" fill="#f0fff5">OMNI<tspan fill="#08f889">GATE</tspan></text>
+<text x="37" y="168" font-family="monospace" font-size="20" fill="#c1f4d4">FOUNDER / OWNER : KALIFLOW</text>
+<rect x="35" y="190" width="248" height="43" rx="7" fill="#074626" stroke="#12e976"/>
+<text x="58" y="218" font-family="monospace" font-size="18" font-weight="bold" fill="#c8ffe3">omnigate.info ↗</text>
+<text x="37" y="252" font-family="monospace" font-size="13" fill="#568e70">BUILT WITH PURPOSE • POWERED BY CODE</text>
+<circle cx="879" cy="139" r="151" fill="url(#halo)"/>
+<circle cx="879" cy="139" r="94" stroke="#0a8c4b" stroke-width="2" stroke-dasharray="8 9" fill="none"/>
+<circle cx="879" cy="139" r="70" stroke="#08d878" stroke-width="3" fill="#042716"/>
+<path d="M849 110h60v59h-60z" stroke="#26ff9e" stroke-width="9" fill="none" rx="4"/><path d="M865 137h54" stroke="#b9ffe1" stroke-width="8" stroke-linecap="round"/>
+<path d="M752 139h30m194 0h31M879 11v34m0 188v34" stroke="#0acb6e" stroke-width="2"/>
+<text x="879" y="254" font-family="monospace" font-size="13" text-anchor="middle" fill="#7cf0b2">DIGITAL HQ // ONLINE</text>
+</svg>
